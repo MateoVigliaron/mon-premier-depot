@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>CV Vigliaron Matéo</title>
+        <link rel=stylesheet href=VM.css>
+    </head>
+    
+    <body>
+        <div id ="head">
+            <header>
+                <h1 id="name">Vigliaron Matéo</h1>
+                <img id="photo" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/13413034_916826041761443_7198506465342433567_n.jpg?oh=4deb161b646d3d51b81ef7eec73f00ee&oe=58C3B65A"width="150" height="150" align="middle" alt="photo de Matéo Vigliaron"/>
+            </header>
+        </div>
+        <div id="left"></div>
+        <div id="right"></div>
+        <br/>
+        <h3>Expérience professionnelle</h3>
+        <p>
+            <br/>
+            Agent d'entretien qualifié au CHRU de Lille Juillet 2015 et Juillet 2016
+            <br/>
+            Agent d'entretien qualifié pour AGENOR,août 2016
+        </p>
+        <div classe="ul">
+        <ul> 
+        <br/>
+        <hr color="black">
+        <br/>
+        <br/>
+        
+        <h3>Formation</h3>
+        <ul>
+        <div class="liste">
+            <li><em>Formation professionnelle développeur intégrateur web à Pop School de Lens de Novembre 2016</em></li>
+            <li><em>Obtention du Baccalauréat série S en 2014</em></li>
+        </div>
+        </ul>
+        <br/>
+        <hr color="black">
+        <br/>
+        
+        <h3>Centres d'interets</h3>
+        <ul>
+        <div class="liste">
+            <li>Pratique du basket ball pendant 8ans en club</a></li>
+	    <li>Pratique de la musculation depuis septembre 2016</a></li>
+	    <li>Jeux vidéo et informatique</a></li>
+        </div>
+        </ul>
+        <footer>
+            <div id="footer">
+                <br/>
+                <br/>
+                <p id="infoperso">
+                    58 rue Henri Ghesquière | 59179 FENAIN
+                    <br/>
+                    Contact: 07.86.50.42.92 |
+                    <a href= "mailto:mateo.vigliaron@outlook.fr">mateo.vigliaron@outlook.fr</a>
+                    <br/>
+                    <a href="https://www.linkedin.com/in/mat%C3%A9o-vigliaron-939253133?trk=nav_responsive_tab_profile_pic" target ="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" width="30px" heigth ="20px"/></a>
+                    <a href= "https://www.facebook.com/mateo.vigliaron" target="_blank"><img src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png" width="30px" heigth="20px" /></a>
+                    <a href="https://twitter.com/MateoVigliaron" target="_blank"><img src="http://bloomsburyfestival.org.uk/wp-content/uploads/2016/07/twitter-logo.png" width="30px" heigth="20px"/></a>
+                </p>
+            </div>
+        </footer>
+    </body>
+</html>
